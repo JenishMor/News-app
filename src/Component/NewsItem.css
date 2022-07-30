@@ -1,0 +1,8 @@
+.my-badge {
+  left: 90% !important;
+}
+@media screen and (max-width: 600px) {
+  .my-badge {
+    left: 80% !important;
+  }
+}
